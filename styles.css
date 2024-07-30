@@ -147,3 +147,18 @@ body.hidden {
         transform: scale(1);
     }
 }
+.counter-container {
+    margin-top: 20px;
+    background: #1c1c1c;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+.counter {
+    font-size: 3em;
+    font-weight: bold;
+}
